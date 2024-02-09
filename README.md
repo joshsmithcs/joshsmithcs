@@ -1,6 +1,6 @@
 👋 Hi, I’m @joshsmithcs
 
-[Leetcode Repository](https://github.com/joshsmithcs/Leetcode)
+[Competitive Programming Repository](https://github.com/joshsmithcs/Leetcode)
 
 #  <div align="center">Joshua Smith</div>
 <div align="center">joshsmithcoding@gmail.com ● 825-436-3351 ● Edmonton, Alberta T6A 1K7 ● linkedin.com/in/josh-cs</div>
